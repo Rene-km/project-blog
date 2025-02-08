@@ -12,7 +12,7 @@ const page =  async ({
 
   const slug = (await params).slug
   const getPostContent = (slug:string) => {
-    const folder = "posts"
+    const folder = "posts/"
     const fileContents = fs.readFileSync(
       `${folder}/${slug}.md`,"utf8")
     const matterResult = matter(fileContents);
