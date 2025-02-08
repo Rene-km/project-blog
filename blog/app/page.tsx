@@ -21,7 +21,7 @@ import getPostMetadata from "@/utils/getPostMetadeta";
 
 export default function Home() {
   const postMetadata = getPostMetadata("posts")
-  console.log(postMetadata)
+  //console.log(postMetadata)
   return (
     <div>
   <div className="container mx-auto flex px-4 justify-center min-h-44">
