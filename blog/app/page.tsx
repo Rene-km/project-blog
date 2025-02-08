@@ -1,22 +1,5 @@
-import Image from "next/image";
-import {
-  Menubar,
-  MenubarCheckboxItem,
-  MenubarContent,
-  MenubarItem,
-  MenubarMenu,
-  MenubarRadioGroup,
-  MenubarRadioItem,
-  MenubarSeparator,
-  MenubarShortcut,
-  MenubarSub,
-  MenubarSubContent,
-  MenubarSubTrigger,
-  MenubarTrigger,
-} from "@/components/ui/menubar"
-import { Navbar } from "./components/navbar";
+
 import CardComponent from "./components/card";
-import { CardHeader } from "@/components/ui/card";
 import getPostMetadata from "@/utils/getPostMetadeta";
 
 export default function Home() {

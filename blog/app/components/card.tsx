@@ -1,10 +1,8 @@
 import React from 'react'
-import { Button } from "@/components/ui/button"
 import { PostProp } from '@/utils/Post'
 import {
   Card,
   CardContent,
-  CardDescription,
   CardFooter,
   CardHeader,
   CardTitle,

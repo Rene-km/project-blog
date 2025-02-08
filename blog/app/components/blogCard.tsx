@@ -1,11 +1,10 @@
+/* eslint-disable react/no-children-prop */
 import React from 'react'
-import { Button } from "@/components/ui/button"
 import Markdown from 'markdown-to-jsx'
-import { PostProp } from '@/utils/Post'
+import Image from 'next/image'
 import {
   Card,
   CardContent,
-  CardDescription,
   CardFooter,
   CardHeader,
   CardTitle,
@@ -35,8 +34,8 @@ const BlogCard = (props: blogPost) => {
         <CardContent>
 
 
-<img className="h-auto max-w-full mx-auto pb-4" src="/proposal.jpg" alt="image description"/>
-
+<Image className="h-auto max-w-full mx-auto pb-4 w-auto" src="/proposal.jpg" alt="image description"/>
+    
           <Markdown children={blog.content} options={{
       overrides: {
         h1: {

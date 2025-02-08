@@ -10,9 +10,9 @@ const page =  async ({
 }) => {
 
 
-  let slug = (await params).slug
+  const slug = (await params).slug
   const getPostContent = (slug:string) => {
-    let folder = "posts"
+    const folder = "posts"
     const fileContents = fs.readFileSync(
       `${folder}/${slug}.md`,"utf8")
     const matterResult = matter(fileContents);
