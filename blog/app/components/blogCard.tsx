@@ -14,7 +14,8 @@ interface blogPost  {
   blog: {
     content: string,
     title: string,
-    date: string
+    date: string,
+    image: string
   }
   
 }
@@ -34,8 +35,14 @@ const BlogCard = (props: blogPost) => {
         <CardContent>
 
 
-<Image className="h-auto max-w-full mx-auto pb-4 w-auto" src="/proposal.jpg" alt="image description"/>
-    
+  <Image
+      src={`${blog.image}`}
+      width={500}
+      height={500}
+      alt="Photo for blog"
+      className='mx-auto pb-4'
+    />
+ 
           <Markdown children={blog.content} options={{
       overrides: {
         h1: {

@@ -19,7 +19,8 @@ const page =  async ({
     const blog = {
         content: matterResult.content,
         title: matterResult.data.title,
-        date: matterResult.data.date
+        date: matterResult.data.date,
+        image: matterResult.data.image
     }
     
     return (

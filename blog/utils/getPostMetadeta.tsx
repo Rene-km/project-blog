@@ -1,6 +1,6 @@
 import fs from "fs"
 import matter from "gray-matter"
-import { title } from "process"
+
 
 export default function getPostMetadata(basePath: string) {
     const folder = basePath + "/"
@@ -17,6 +17,7 @@ const posts = markdownPosts.map((filename) => {
                 slug: filename.replace(".md", ""),
                 description: matterResult.data.description,
                 date: matterResult.data.date,
+                image: matterResult.data.image,
                 content: fileContents
         }
         

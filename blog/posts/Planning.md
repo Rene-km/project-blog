@@ -2,6 +2,7 @@
 title: "Planning"
 date: "January 17, 2024"
 description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lorem nec auctor pharetra. Integer at pretium magna"
+image: "/proposal.jpg"
 
 ---
 

@@ -3,6 +3,7 @@ export interface PostProp {
      title: string,
      slug: string,
      description: string,
-     date: string
+     date: string,
+     image: string
     }
 }
