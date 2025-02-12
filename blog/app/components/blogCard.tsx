@@ -18,6 +18,7 @@ interface blogPost {
   description: string;
   date: string;
   image: string;
+  author: string;
   content: string;
 }
 
@@ -29,13 +30,14 @@ interface BlogCardProps {
 const BlogCard = ({ post }: BlogCardProps) => {
   return (
     <div className="max-w-3xl mx-auto">
-      <Card className=''>
+      <Card className='px-4'>
         <CardHeader>
           <CardTitle className=''>
-            <h1 className='scroll-m-20 text-3xl font-semibold tracking-tight first:mt-0'>
+            <h1 className='scroll-m-20 text-4xl font-bold tracking-tight first:mt-0'>
               {post.title}
             </h1>
           </CardTitle>
+          <p className="leading-7 [&:not(:first-child)]:mt-6 font-black">Written by: {post.author}</p>
           <p className='my-4 text-lg text-gray-500 border-b pb-2'>
             Published on {post.date}
           </p>
@@ -55,10 +57,25 @@ const BlogCard = ({ post }: BlogCardProps) => {
                   className: 'scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl',
                 }
                 },
+                h2: {
+                  props: {
+                    className: "scroll-m-20 text-xl font-semibold tracking-tight",
+                  }
+                },
                 p: {
                   props: {
-                    className: 'leading-7 [&:not(:first-child)]:mt-6',
+                    className: 'leading-7 [&:not(:first-child)]:mt-6 mb-2',
                   }
+              },
+              ul: {
+                props: {
+                  className: "my-6 ml-6 list-disc [&>li]:mt-2",
+                }
+              },
+              ol: {
+                props: {
+                  className: "my-6 ml-6 list-disc [&>li]:mt-2",
+                }
               },
             },
           }} />

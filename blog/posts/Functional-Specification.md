@@ -3,6 +3,7 @@ title: "Functional Specification"
 date: "December 12, 2024"
 description: "This blog gives an overview of our process in coming up with a functional specification for our prject, and the decisions behind them orem ipsum dolor sit amet, consectetur adipiscing elit. Do"
 image: "/proposal.jpg"
+author: "David"
 ---
 
 
