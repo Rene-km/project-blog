@@ -1,7 +1,7 @@
 ---
 title: "Project Idea"
 date: "October 10, 2024"
-description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sagittis lorem nec auctor pharetra. Integer at pretium magna."
+description: "Michael and I brainstormed ideas, aiming for something with real world use cases and also technically challenging to develop."
 image: "/idea.jpeg"
 author: "Rene"
 ---
