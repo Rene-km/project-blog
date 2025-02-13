@@ -4,6 +4,7 @@ date: "October 10, 2024"
 description: "Michael and I brainstormed ideas, aiming for something with real world use cases and also technically challenging to develop."
 image: "/idea.jpeg"
 author: "Rene"
+id: 1
 ---
 
 

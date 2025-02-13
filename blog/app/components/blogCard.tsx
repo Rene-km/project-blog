@@ -75,6 +75,7 @@ const BlogCard = ({ post }: BlogCardProps) => {
               ol: {
                 props: {
                   className: "my-6 ml-6 list-disc [&>li]:mt-2",
+                  type: "1",
                 }
               },
             },

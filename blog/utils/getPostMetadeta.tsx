@@ -19,7 +19,8 @@ const posts = markdownPosts.map((filename) => {
                 date: matterResult.data.date,
                 image: matterResult.data.image,
                 author: matterResult.data.author,
-                content: fileContents
+                content: fileContents,
+                id: matterResult.data.id
         }
         
     })
