@@ -43,13 +43,17 @@ const BlogCard = ({ post }: BlogCardProps) => {
           </p>
         </CardHeader>
         <CardContent>
-          <Image
-            src={`${post.image}`}
-            width={500}
-            height={500}
-            alt="Photo for blog"
-            className='mx-auto mb-8'
-          />
+         
+          {post.image && (
+            <Image
+              src={`${post.image}`}
+              width={500}
+              height={500}
+              alt="Photo for blog"
+              className='mx-auto mb-8'
+            />
+          )}
+
           <Markdown children={post.content} options={{
             overrides: {
               h1: {

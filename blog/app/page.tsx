@@ -26,7 +26,7 @@ export default async function Home() {
 <div className="max-w-7xl grid grid-rows-3 mx-auto gap-8 sm:grid-cols-2 lg:grid-cols-3 p-3 md:p-4 xl:p-5 auto-rows-max">
 
     {postMetadata
-      .sort((a, b) => a.id - b.id)
+      .sort((a, b) => b.id - a.id)
       .map((post, postIndex) => {
         return <CardComponent key={postIndex} post={post} />
       })}
