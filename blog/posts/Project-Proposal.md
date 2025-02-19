@@ -26,6 +26,10 @@ Our tech stack is not too complex. It includes technology we are familiar and ha
 - Django (Python) – Handling data processing, authentication, and API requests.
 - PyTorch & Wav2Vec – Using pre-trained speech recognition models to transcribe and analyze user pronunciation.
 
+We decided to use Nextjs as we both have experience with React. Nextjs has added features on top such as server-side rendering and an app router. Nextjs. Although this project can be implemented using React, we want to use this as a chance to learn new skills.
+
+For our backend we could have opted to use Flask as most Wav2Vec documentaion shown makes use if it, however Django is more practical for our use case as it provides more functionality out of the box and is suited for more complex applications.
+
 ## Division of Work
 
 To develop the application me and Michael plan to develop the application as follows:
