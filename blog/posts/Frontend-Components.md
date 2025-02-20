@@ -4,7 +4,7 @@ date: "October 10, 2024"
 description: "We implemented the landing page and navbar componenet."
 image: ""
 author: "Michael"
-id: 10
+id: 11
 ---
 
 Now that we agreed on the general aesthetic and design for our website we dove in to setting
