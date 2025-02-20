@@ -29,6 +29,10 @@ Next we worked on the navbar. We used the Toolbar components for this. Again the
 
  For the hero section we made use of the hero section block provided by Shadcn.
 
+## Login and Register API
+
+For the form schema we used zod. This is a Type-safe validation library. Fetch API was then used for the POST requests. On a successfull request the router sends the use to the appropriate route.
+
 ## Final Thoughts
 
  Using backgroung colours is a a great way to debug CSS. It really gives you an understading on what is happening and why the elements are behaving they way they are.
