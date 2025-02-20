@@ -3,7 +3,7 @@ title: "Answers and Feedback"
 date: "October 10, 2024"
 description: "With the endpoints created we looked to integrate them into the frontend."
 image: ""
-author: "Michael"
+author: "Rene"
 id: 14
 ---
 

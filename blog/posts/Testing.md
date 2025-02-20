@@ -19,11 +19,11 @@ focus on our thought process throughout and how we conducted the testing.
 ## Methodology
 
 Our approach made use of direct and indirect observation methods to assess the usability of
-the UI. We made use if the think-aloud protocol, asking users to verbalise their thoughts
+the UI. We made use of the think-aloud protocol, asking users to verbalize their thoughts
 while interacting with the UI. This helped us to understand their thought process and uncover
 any usability issues, Testing was done in person or remotely on Zoom. This setup enables some indirect
 observation. Remotely we could record both the user and their screens, so we could capture
-user behaviour without interfering with their experience.
+user behavior without interfering with their experience.
 
 Our evaluation metrics were a mix of quantitative and qualitative metrics to assess usability.
 Based on metrics like a task success rate, error rate and a post-test questionnaire.
@@ -42,4 +42,4 @@ the product to others.
 
 User testing provides valuable insight into how people interact with a product. These insights
 will identify areas to improve. These improvements will guide a project into its next
-development phase, ensuring that a better user experience for users.
+development phase, ensuring a better experience for users.

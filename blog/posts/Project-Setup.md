@@ -20,7 +20,7 @@ translate system classes into practical models, that are modular, scalable and e
 maintain. Since our system needs to process user audio files, analyse pronunciation
 accuracy and return feedback.
 In this blog post, we will walk through the Django setup process, loosely covering everything
-from installation to configuration. Let’s Dive in!
+from installation to configuration. Let's dive in!
 
 ## Installation of Django and Dependencies
 
