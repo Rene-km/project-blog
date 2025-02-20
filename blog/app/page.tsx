@@ -23,7 +23,7 @@ export default async function Home() {
    
   </div>
 
-<div className="max-w-7xl grid grid-rows-3 mx-auto gap-8 sm:grid-cols-2 lg:grid-cols-3 p-3 md:p-4 xl:p-5 auto-rows-max">
+<div className="max-w-7xl grid grid-rows-5 mx-auto gap-8 sm:grid-cols-2 lg:grid-cols-3 p-3 md:p-4 xl:p-5 auto-rows-max">
 
     {postMetadata
       .sort((a, b) => b.id - a.id)

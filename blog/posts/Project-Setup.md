@@ -4,7 +4,7 @@ date: "October 10, 2024"
 description: "We finally start our project development."
 image: "/django.png"
 author: "Michael"
-id: 5
+id: 7
 ---
 
 ## Introduction
