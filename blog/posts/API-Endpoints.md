@@ -1,10 +1,10 @@
 ---
 title: "API Endpoints"
-date: "October 10, 2024"
+date: "February 8, 2025"
 description: "After creating the models we started to work on the API."
 image: ""
 author: "Michael"
-id: 10
+id: 11
 ---
 
 ## Creating the API Endpoints

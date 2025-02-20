@@ -1,6 +1,6 @@
 ---
 title: "Wrapping Up"
-date: "October 10, 2024"
+date: "February 21, 2025"
 description: "A reflection on the project journey and future improvements."
 image: ""
 author: "Michael"

@@ -1,10 +1,10 @@
 ---
 title: "Individual Phrases"
-date: "October 10, 2024"
+date: "Febuary 15, 2025"
 description: "Challenges and solutions in implementing the lesson page with the Media Recorder API."
 image: ""
 author: "Rene"
-id: 13
+id: 14
 ---
 
 Implementing the lesson page proved to be the hardest task so far. The designing of the page was rather straightforward. We wanted the design to be as intuitive and minimal as possible. We placed a button on the bottom of the page and had the text at the top. 

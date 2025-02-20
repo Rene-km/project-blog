@@ -1,10 +1,10 @@
 ---
 title: "Frontend Components"
-date: "October 10, 2024"
+date: "February 4, 2025"
 description: "We implemented the landing page and navbar component."
 image: ""
 author: "Rene"
-id: 11
+id: 9
 ---
 
 Now that we agreed on the general aesthetic and design for our website, we dove into setting
@@ -28,10 +28,6 @@ Next, we worked on the navbar. We used the Toolbar components for this. Again, t
  We made sure to apply classes that make the navbar responsive on different device sizes.
 
  For the hero section, we made use of the hero section block provided by Shadcn.
-
-## Login and Register API
-
-For the form schema, we used zod. This is a type-safe validation library. Fetch API was then used for the POST requests. On a successful request, the router sends the user to the appropriate route.
 
 ## Final Thoughts
 

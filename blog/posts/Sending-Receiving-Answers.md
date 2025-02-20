@@ -1,10 +1,10 @@
 ---
 title: "Answers and Feedback"
-date: "October 10, 2024"
+date: "February 17, 2025"
 description: "With the endpoints created we looked to integrate them into the frontend."
 image: ""
 author: "Rene"
-id: 14
+id: 15
 ---
 
 With the recording set up, all that was left was to send the audio to the backend and recive the feedback. We again decided to use the TanStack library. To send the user's answer we used the useMutation hook. This hook helps in tracking state of api calls that create or update data. 

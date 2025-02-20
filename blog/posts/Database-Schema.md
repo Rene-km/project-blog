@@ -1,10 +1,10 @@
 ---
 title: "Designing the Database Schema"
-date: "October 10, 2024"
+date: "February 6, 2025"
 description: "Our Process for designing the database models."
 image: "/schema.png"
 author: "Michael"
-id: 9
+id: 10
 ---
 
 ## Introduction

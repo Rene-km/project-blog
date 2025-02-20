@@ -1,6 +1,6 @@
 ---
 title: "Website Design"
-date: "October 10, 2024"
+date: "January 29, 2025"
 description: "We looked at how NextJS works and whether or not we should use a component library."
 image: ""
 author: "Rene"

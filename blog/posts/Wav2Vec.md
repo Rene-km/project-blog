@@ -1,6 +1,6 @@
 ---
 title: "Wav2vec"
-date: "October 10, 2024"
+date: "February 3, 2025"
 description: "We worked on ensuring the model worked and could perform speech comparison."
 image: ""
 author: "Michael"

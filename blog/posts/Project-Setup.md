@@ -1,6 +1,6 @@
 ---
 title: "Starting our Project"
-date: "October 10, 2024"
+date: "January 31, 2025"
 description: "We finally start our project development."
 image: "/django.png"
 author: "Michael"

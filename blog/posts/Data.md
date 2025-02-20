@@ -1,10 +1,10 @@
 ---
 title: "Data and Tables"
-date: "October 10, 2024"
+date: "February 11, 2025"
 description: "With the endpoints created we looked to integrate them into the frontend."
 image: ""
 author: "Rene"
-id: 12
+id: 13
 ---
 
 We moved our attention to the table component that will display the phrases. We used Shadcn data table component to achieve this. This is built on TanStack's React table library. After gaining an understanding of the TanStack documentation, we created a table using mock data.
