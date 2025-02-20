@@ -11,7 +11,6 @@ export function Navbar() {
       <Link href="/" className="text-xl font-bold">Atypical Pronunciation Detector</Link>
       <nav className="hidden md:flex space-x-6">
         <Link href="/" className="text-gray-700 hover:text-blue-500">Home</Link>
-        <Link href="/about" className="text-gray-700 hover:text-blue-500">About</Link>
       </nav>
     </div>
   </header>

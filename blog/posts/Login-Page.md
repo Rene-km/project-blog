@@ -1,7 +1,7 @@
 ---
 title: "Login and Register Page"
 date: "February 9, 2025"
-description: "After creating the models we started to work on the API."
+description: "Implementing the login and register API in frontend."
 image: ""
 author: "Michael"
 id: 12

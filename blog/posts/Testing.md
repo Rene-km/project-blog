@@ -1,7 +1,7 @@
 ---
 title: "Testing"
 date: "February 20, 2025"
-description: "With the endpoints created we looked to integrate them into the frontend."
+description: "An in-depth look at our user testing phase and insights for improving user experience."
 image: ""
 author: "Michael"
 id: 16

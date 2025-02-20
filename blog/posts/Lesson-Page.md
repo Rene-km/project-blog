@@ -1,7 +1,7 @@
 ---
 title: "Individual Phrases"
 date: "Febuary 15, 2025"
-description: "Challenges and solutions in implementing the lesson page with the Media Recorder API."
+description: "Challenges and solutions we had implementing the lesson page with the Media Recorder API."
 image: ""
 author: "Rene"
 id: 14

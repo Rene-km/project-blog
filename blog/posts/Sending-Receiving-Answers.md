@@ -1,7 +1,7 @@
 ---
 title: "Answers and Feedback"
 date: "February 17, 2025"
-description: "With the endpoints created we looked to integrate them into the frontend."
+description: "After setting up audio recording, we had to send requests between user and server."
 image: ""
 author: "Rene"
 id: 15

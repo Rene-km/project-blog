@@ -1,7 +1,7 @@
 ---
 title: "Website Design"
 date: "January 29, 2025"
-description: "We looked at how NextJS works and whether or not we should use a component library."
+description: "Exploring themes, user flow, and other design decisions."
 image: ""
 author: "Rene"
 id: 6
