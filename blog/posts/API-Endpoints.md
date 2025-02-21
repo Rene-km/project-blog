@@ -21,7 +21,7 @@ mispronunciations of the user, it worked by transcribing the audio to text and t
 that to the native transcript making use of wav2vec. It then returns the word-by-word
 pronunciation accuracy.
 
-We had issues in implementing ffmpeg, as on some systems it was missing preventing audio processing. The issue was with saving ffmpeg as a Path. We were able to resolve this issue by including the execution files within the project. And manually telling the system the exact path to ffmpeg.exe and ffprobe.exe. Furthermore the path had to be placed in the settings.py file as if ffmpeg was called before the path was rerouted, we would experience errors. Placing the path within the settings.py file made sure it was executed before it was called on anywhere else in the project.
+We had issues in implementing ffmpeg, as it's not on all systems. The issue was fixed by including the execution files in the project and specifying the exact paths to ffmpeg.exe and ffprobe.exe. To prevent errors, the path was set in settings.py to ensure it was configured before being used elsewhere.
 
 We tested our APIs using Postman and Django’s built-in browser.
 

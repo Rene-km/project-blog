@@ -2,7 +2,7 @@
 title: "Designing the Database Schema"
 date: "February 6, 2025"
 description: "Our Process for designing the database models."
-image: "/schema.png"
+image: "/db_schema.png"
 author: "Michael"
 id: 10
 ---

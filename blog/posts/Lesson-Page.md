@@ -1,6 +1,6 @@
 ---
 title: "Individual Phrases"
-date: "Febuary 15, 2025"
+date: "February 15, 2025"
 description: "Challenges and solutions we had implementing the lesson page with the Media Recorder API."
 image: ""
 author: "Rene"

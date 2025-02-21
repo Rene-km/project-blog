@@ -17,7 +17,7 @@ export default async function Home() {
     <div className="flex  flex-col justify-around text-center w-full py-4"> 
       <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl">Blog posts</h1>
       <h2 className="leading-7 [&:not(:first-child)]:mt-6">The following are a collection of blog
-        posts that were written by both of us as requested in the deliverables. 
+        posts that were written by both of us, as requested in the deliverables. 
       </h2>
     </div>
    

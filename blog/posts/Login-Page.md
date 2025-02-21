@@ -2,7 +2,7 @@
 title: "Login and Register Page"
 date: "February 9, 2025"
 description: "Implementing the login and register API in frontend."
-image: ""
+image: "/login.png"
 author: "Michael"
 id: 12
 ---

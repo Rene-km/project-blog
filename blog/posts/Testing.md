@@ -2,7 +2,7 @@
 title: "Testing"
 date: "February 20, 2025"
 description: "An in-depth look at our user testing phase and insights for improving user experience."
-image: ""
+image: "/test.webp"
 author: "Michael"
 id: 16
 ---
